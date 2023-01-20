@@ -1,0 +1,13 @@
+C:\Users\chand\source\repos\emssystem\bin\Debug\emssystem.exe.config
+C:\Users\chand\source\repos\emssystem\bin\Debug\emssystem.exe
+C:\Users\chand\source\repos\emssystem\bin\Debug\emssystem.pdb
+C:\Users\chand\source\repos\emssystem\bin\Debug\emssystem.xml
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.vbprojAssemblyReference.cache
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.MainScreen.resources
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.Resources.resources
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.vbproj.GenerateResource.cache
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.vbproj.CoreCompileInputs.cache
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.exe
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.xml
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.pdb
+C:\Users\chand\source\repos\emssystem\obj\Debug\emssystem.EmpFrm.resources
